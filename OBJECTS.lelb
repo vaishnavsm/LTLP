@@ -1,0 +1,98 @@
+{this}
+	(obj)
+		[health]
+			<100>
+		[id]
+			<robot>
+		[uid]
+			<leap>
+	(event)
+		[place]
+			<block4>
+		[time]
+			<now>
+{curblock}
+	(obj)
+		[name]
+			<block4>
+		[p0]
+			<0>
+		[p1]
+			<0>
+		[p2]
+			<0>
+		[p3]
+			<grey>
+{lastblock}
+	(obj)
+		[name]
+			<block4>
+		[p0]
+			<0>
+		[p1]
+			<0>
+		[p2]
+			<0>
+		[p3]
+			<grey>
+{block4}
+	(obj)
+		[name]
+			<block4>
+		[p0]
+			<0>
+		[p1]
+			<0>
+		[p2]
+			<0>
+		[p3]
+			<grey>
+{block5}
+	(obj)
+		[name]
+			<block5>
+		[p0]
+			<0>
+		[p1]
+			<0>
+		[p2]
+			<0>
+		[p3]
+			<green>
+{block6}
+	(obj)
+		[name]
+			<block6>
+		[p0]
+			<0>
+		[p1]
+			<1>
+		[p2]
+			<0>
+		[p3]
+			<grey>
+{block7}
+	(obj)
+		[name]
+			<block7>
+		[p0]
+			<0>
+		[p1]
+			<2>
+		[p2]
+			<0>
+		[p3]
+			<grey>
+{block8}
+	(obj)
+		[name]
+			<block8>
+		[p0]
+			<0>
+		[p1]
+			<0>
+		[p2]
+			<1>
+		[p3]
+			<silver>
+&EOF&

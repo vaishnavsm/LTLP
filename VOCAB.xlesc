@@ -1,0 +1,13 @@
+[o] (hello) <greet> [/o]
+[o] (leap) <*learning and evolving program*> {|<this>|} [/o]
+[o] (me) {|(you)(your)(youre)|} <this> [/o]
+[o] (no) <=false> [/o]
+[o] (yes) <=true> [/o]
+[o] (what) <obj.id> [/o]
+[o] (name) {|(who)|} <obj.uid> [/o]
+[o] (when) <event.time> [/o]
+[o] (where) <event.place> [/o]
+[o] (block) <curblock> [/o]
+[o] (colour) <obj.p3> [/o]
+[o] (slime) <block5> [/o]
+&&EOF&&

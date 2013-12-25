@@ -1,0 +1,20 @@
++
+-hello = greet
++
+-leap = "learning and evolving program"
++
+-me = this
+-[you;you're;your;]
++
+-no = bool.0
++
+-what = obj.id
++
+-when = event.time
++
+-where = event.place
++
+-who = obj.uid
++
+-yes = bool.1
+<EOF>
